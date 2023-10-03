@@ -1,14 +1,14 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"[]>
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"[]>
+<html xmlns="https://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>Murermester Makholm - Professionelt dansk kvalitetarbejde til aftalt tid og pris</title>
-    <link rel="stylesheet" href="http://murermestermakholm.dk/style.css" type="text/css" media="screen" />
-    <!--[if IE 6]><link rel="stylesheet" href="http://murermestermakholm.dk/style.ie6.css" type="text/css" media="screen" /><![endif]-->
-    <!--[if IE 7]><link rel="stylesheet" href="http://murermestermakholm.dk/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+    <link rel="stylesheet" href="https://murermestermakholm.dk/style.css" type="text/css" media="screen" />
+    <!--[if IE 6]><link rel="stylesheet" href="https://murermestermakholm.dk/style.ie6.css" type="text/css" media="screen" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" href="https://murermestermakholm.dk/style.ie7.css" type="text/css" media="screen" /><![endif]-->
 
-    <script type="text/javascript" src="http://murermestermakholm.dk/jquery.js"></script>
-    <script type="text/javascript" src="http://murermestermakholm.dk/script.js"></script>
+    <script type="text/javascript" src="https://murermestermakholm.dk/jquery.js"></script>
+    <script type="text/javascript" src="https://murermestermakholm.dk/script.js"></script>
    <style type="text/css">
 .art-post .layout-item-0 { padding-right: 10px;padding-left: 10px; }
    .ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
@@ -25,7 +25,7 @@
             <div class="art-header">
                 <div class="art-headerobject"></div>
                         <div class="art-logo">
-                                                 <h1 class="art-logo-name"><a href="http://murermestermakholm.dk/index.shtml">Murermester Makholm</a></h1>
+                                                 <h1 class="art-logo-name"><a href="https://murermestermakholm.dk/index.shtml">Murermester Makholm</a></h1>
                                                                          <h2 class="art-logo-text">Jan Makholm</h2>
                                                 </div>
                 
@@ -36,12 +36,12 @@
 <div class="art-nav-outer">
 	<ul class="art-hmenu">
 		<li>
-			<a href="http://murermestermakholm.dk/index.shtml" class="active">Start</a>
+			<a href="https://murermestermakholm.dk/index.shtml" class="active">Start</a>
 		<li>
-			<a href="http://murermestermakholm.dk/vi-tilbyder-murerarbejde.shtml">Vi Tilbyder</a>
+			<a href="https://murermestermakholm.dk/vi-tilbyder-murerarbejde.shtml">Vi Tilbyder</a>
 		</li>
 		<li>
-			<a href="http://murermestermakholm.dk/kontakt-os/murerarbejde-i-kolding.shtml">Kontakt Os</a>
+			<a href="https://murermestermakholm.dk/kontakt-os/murerarbejde-i-kolding.shtml">Kontakt Os</a>
 		</li>			
 	</ul>
 </div>
@@ -76,7 +76,7 @@
 			<li>Ring 4054 2638 for at indhente et tilbud.</li>
         </ul>
     </div><div class="art-layout-cell layout-item-0" style="width: 25%;">
-<img src="http://murermestermakholm.dk/images/murer-billede-2.jpg" alt="kvalitets arbejde udført af Danske håndværkere">
+<img src="https://murermestermakholm.dk/images/murer-billede-2.jpg" alt="kvalitets arbejde udført af Danske håndværkere">
     </div>
     </div>
 </div>
@@ -130,11 +130,11 @@
             <div class="art-footer">
                 <div class="art-footer-body">
                             <div class="art-footer-text">
-                                <p><a href="http://murermestermakholm.dk/kontakt-os/murerarbejde-i-middelfart.shtml">Middelfart</a> | 
-                                <a href="http://murermestermakholm.dk/kontakt-os/murerarbejde-i-egtved.shtml">Egtved</a> | 
-                                <a href="http://murermestermakholm.dk/kontakt-os/murerarbejde-i-kolding.shtml">Kolding</a> | 
-                                <a href="http://murermestermakholm.dk/kontakt-os/murerarbejde-i-vejle.shtml">Vejle</a> | 
-                                <a href="http://murermestermakholm.dk/kontakt-os/murerarbejde-i-fredericia.shtml">Fredericia</a></p>
+                                <p><a href="https://murermestermakholm.dk/kontakt-os/murerarbejde-i-middelfart.shtml">Middelfart</a> | 
+                                <a href="https://murermestermakholm.dk/kontakt-os/murerarbejde-i-egtved.shtml">Egtved</a> | 
+                                <a href="https://murermestermakholm.dk/kontakt-os/murerarbejde-i-kolding.shtml">Kolding</a> | 
+                                <a href="https://murermestermakholm.dk/kontakt-os/murerarbejde-i-vejle.shtml">Vejle</a> | 
+                                <a href="https://murermestermakholm.dk/kontakt-os/murerarbejde-i-fredericia.shtml">Fredericia</a></p>
 
 				<p>Murermester Makholm - Jan Makholm - Dansk murerarbejde til den rigtige pris - CVR: 30224639</p>
                                                             </div>
